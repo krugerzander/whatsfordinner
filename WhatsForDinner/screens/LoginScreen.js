@@ -1,6 +1,6 @@
 import React from 'react';
 
-import {StyleSheet, Text, TextInput, View, Button, R} from 'react-native';
+import {StyleSheet, Text, TextInput, View, Button} from 'react-native';
 
 export default class LoginScreen extends React.Component {
     static navigationOptions = {
